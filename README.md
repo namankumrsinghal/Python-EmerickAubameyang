@@ -28,3 +28,5 @@ Note:
 I have included the dataset(csv files) for the previous 5 seasons of the English Premier League to test the code. Please change the file path(line4-8) accordingly(I have used the file location in my local computer)
 
 A class called Team is defined in Teams.py file
+
+All datasets used in the project were open source from football-data.co.uk
